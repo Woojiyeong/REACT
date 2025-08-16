@@ -12,7 +12,7 @@ import Hello from "./Hello"
 //     </div>
 //   )
 // }
-function App(){f
+function App(){
   return (
     <div>
     <Hello name = "지영" hobby="잠쿨쿨자기" fav_food="엽기떡볶이"/>
